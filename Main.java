@@ -2,7 +2,7 @@ import java.util.Random;
 import java.util.Scanner;
 
 
-public class Homework1 {
+public class Main {
     public static void main(String[] args) {
         //making the sonnet into a string that can be worked on
         int totalCorrectGuesses = 0;
